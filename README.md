@@ -3,9 +3,9 @@
 
 -👀 I’m interested in leveraging data analytics to derive meaningful insights and drive informed business decisions.
 
--🌱 I’m currently learning advanced techniques in Python, Tableau, and Power BI to enhance my analytical skills and develop impactful visualizations.
+-🌱 I’m have learned advanced techniques in Python, Tableau, SQL and Power BI to enhance my analytical skills and develop impactful visualizations.
 
--💞️ I’m looking to collaborate on projects that involve analyzing large datasets and implementing data-driven strategies to solve real-world business challenges.
+- I’m looking to collaborate on projects that involve analyzing large datasets and implementing data-driven strategies to solve real-world business challenges.
 
 -📫 You can reach me via email at " dladole7@gmail.com " or connect with me on LinkedIn at "  https://www.linkedin.com/in/dhananjay-ladole-b59793215/  "
 
