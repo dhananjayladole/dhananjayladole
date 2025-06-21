@@ -1,15 +1,31 @@
+# 👋 Hi, I’m Dhananjay Ladole!
 
--👋 Hi, I’m Dhananjay Ladole!
+🔍 I'm a **ServiceNow Developer** and **Data Analyst** with a passion for solving real-world business problems through data and automation.
 
--👀 I’m interested in leveraging data analytics to derive meaningful insights and drive informed business decisions.
+## 👀 What I’m Interested In:
+- Leveraging data analytics to uncover insights and drive informed decisions.
+- Building scalable ServiceNow apps and ITSM solutions.
+- Collaborating on data-centric projects involving large datasets and business intelligence.
 
--🌱 I’m have learned advanced techniques in Python, Tableau, SQL and Power BI to enhance my analytical skills and develop impactful visualizations.
+## 🌱 What I’m Learning:
+- Advanced **Python** for automation and data manipulation  
+- **Power BI**, **SQL**, and **Tableau** for impactful dashboards and analysis  
+- **Glide scripting** and custom workflows in **ServiceNow**
 
-- I’m looking to collaborate on projects that involve analyzing large datasets and implementing data-driven strategies to solve real-world business challenges.
+## 🤝 Let’s Collaborate:
+I’m open to projects that:
+- Solve practical business problems with data  
+- Involve ServiceNow customization or IT operations automation  
+- Need visual storytelling with dashboards
 
--📫 You can reach me via email at " dladole7@gmail.com " or connect with me on LinkedIn at "  https://www.linkedin.com/in/dhananjay-ladole-b59793215/  "
+## 📫 Connect with Me:
+- 📧 Email: [dladole7@gmail.com](mailto:dladole7@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/dhananjay-ladole-b59793215](https://www.linkedin.com/in/dhananjay-ladole-b59793215/)
 
--⚡ Fun fact: Despite being deeply immersed in the world of data analytics, I have a passion for exploring different cuisines and experimenting
+## ⚡ Fun Fact:
+Despite living in dashboards and dev instances all day, I love exploring new cuisines and experimenting with cooking in my free time! 🍲
+
+---
 
 <!---
 dhananjayladole/dhananjayladole is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
